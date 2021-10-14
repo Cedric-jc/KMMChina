@@ -12,6 +12,6 @@
 [以 KMM x Ktor 打造全平台应用](https://cn.kotlin.tips/webinars/xluasp/full-stack-development-using-kmm-and-ktor)
 
 
-![3231634201837_ pic_hd](https://user-images.githubusercontent.com/15265685/137285235-fd060975-436a-48fb-ab1e-c005d2624d81.jpg)
 
 
+![3241634202920_ pic_hd](https://user-images.githubusercontent.com/15265685/137288186-f0406298-0212-4687-9ab6-1532ab72fa53.jpg)
